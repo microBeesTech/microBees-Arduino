@@ -18,7 +18,7 @@
 					"archiveFileName": "wireDuino.zip",
 					"checksum": "SHA-256:59B913BC07F95B8785F587E09F4CC5A4C78B0335F42A6BC8ADFE517B47D440AA",
 					"help": {
-						"https://github.com/microBeesTech/wireDuino/issues"
+						"online":"https://github.com/microBeesTech/wireDuino/issues"
 					},
 					"boards": [
 						{ "name": "wireDuino" }
