@@ -12,7 +12,7 @@
 				{
 					"name": "microBees Boards",
 					"architecture": "avr",
-					"version": "1.0.0",
+					"version": "1.0.1",
 					"category": "Contributed",
 					"url": "https://github.com/microBeesTech/wireDuino/raw/master/wireDuino.zip",
 					"archiveFileName": "wireDuino.zip",
