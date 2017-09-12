@@ -25,16 +25,16 @@
 						{ "name": "wireDuino" }
 					],
 					"toolsDependencies": [
-					    {
-					      "packager": "arduino",
-					      "name": "avr-gcc"
-					    },
-					    {
-					      "packager": "arduino",
-					      "name": "avrdude"
-					    }
-					  ]
-				}
+            {
+              "packager": "arduino",
+              "name": "avr-gcc",
+              "version": "4.8.1-arduino2"
+            },
+            {
+              "packager": "arduino",
+              "name": "avrdude",
+              "version": "6.0.1-arduino2"
+            }
 			],
 			"tools":[]
 		}
