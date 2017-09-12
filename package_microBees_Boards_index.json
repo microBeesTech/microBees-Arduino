@@ -1,42 +1,40 @@
 {
-	"packages": [
-		{
-			"name": "microBees_Boards",
-			"maintainer": "microBees Technology Ltd",
-			"websiteURL": "https://www.microbees.com/",
-			"email": "support@microbees.com",
+	"packages": [{
+		"name": "microBees_Boards",
+		"maintainer": "microBees Technology Ltd",
+		"websiteURL": "https://www.microbees.com/",
+		"email": "support@microbees.com",
+		"help": {
+			"online": "https://github.com/microBeesTech/wireDuino/issues"
+		},
+		"platforms": [{
+			"name": "microBees Boards",
+			"architecture": "avr",
+			"version": "1.0.4",
+			"category": "Contributed",
+			"url": "https://github.com/microBeesTech/wireDuino/raw/master/wireDuino.zip",
+			"archiveFileName": "wireDuino.zip",
+			"checksum": "SHA-256:92DC5412B0DE58E0CBC1DE7B0B67EB8F9C2EE20C6BC3C34BC3E49574E11F861F",
+			"size": "473463",
 			"help": {
 				"online": "https://github.com/microBeesTech/wireDuino/issues"
 			},
-			"platforms": [
+			"boards": [{
+				"name": "wireDuino"
+			}],
+			"toolsDependencies": [{
+					"packager": "arduino",
+					"name": "avr-gcc",
+					"version": "4.8.1-arduino2"
+				},
 				{
-					"name": "microBees Boards",
-					"architecture": "avr",
-					"version": "1.0.4",
-					"category": "Contributed",
-					"url": "https://github.com/microBeesTech/wireDuino/raw/master/wireDuino.zip",
-					"archiveFileName": "wireDuino.zip",
-					"checksum": "SHA-256:92DC5412B0DE58E0CBC1DE7B0B67EB8F9C2EE20C6BC3C34BC3E49574E11F861F",
-					"size":"473463",
-					"help": {
-						"online":"https://github.com/microBeesTech/wireDuino/issues"
-					},
-					"boards": [
-						{ "name": "wireDuino" }
-					],
-					"toolsDependencies": [
-            {
-              "packager": "arduino",
-              "name": "avr-gcc",
-              "version": "4.8.1-arduino2"
-            },
-            {
-              "packager": "arduino",
-              "name": "avrdude",
-              "version": "6.0.1-arduino2"
-            }
-			],
-			"tools":[]
-		}
-	]
+					"packager": "arduino",
+					"name": "avrdude",
+					"version": "6.0.1-arduino2"
+				}
+			]
+		}],
+		"tools": []
+
+	}]
 }
