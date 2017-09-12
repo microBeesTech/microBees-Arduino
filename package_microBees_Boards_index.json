@@ -5,19 +5,19 @@
 		"websiteURL": "https://www.microbees.com/",
 		"email": "support@microbees.com",
 		"help": {
-			"online": "https://github.com/microBeesTech/wireDuino/issues"
+			"online": "https://github.com/microBeesTech/microBees-Arduino/issues"
 		},
 		"platforms": [{
 			"name": "microBees Boards",
 			"architecture": "avr",
-			"version": "1.0.4",
+			"version": "1.0.5",
 			"category": "Contributed",
-			"url": "https://github.com/microBeesTech/wireDuino/raw/master/wireDuino.zip",
-			"archiveFileName": "wireDuino.zip",
-			"checksum": "SHA-256:92DC5412B0DE58E0CBC1DE7B0B67EB8F9C2EE20C6BC3C34BC3E49574E11F861F",
-			"size": "473463",
+			"url": "https://github.com/microBeesTech/microBees-Arduino/raw/master/microBees.zip",
+			"archiveFileName": "microBees.zip",
+			"checksum": "SHA-256:CD7E357B05A1C739DEFABB82CE01FB251A275F9C57E487502FE09C1072ED3F11",
+			"size": "425420",
 			"help": {
-				"online": "https://github.com/microBeesTech/wireDuino/issues"
+				"online": "https://github.com/microBeesTech/microBees-Arduino/issues"
 			},
 			"boards": [{
 				"name": "wireDuino"
