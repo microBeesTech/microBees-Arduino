@@ -1,6 +1,6 @@
 # microBees Arduino
 
-##Installing with Boards Manager
+## Installing with Boards Manager
 
 Starting with 1.6.4, Arduino allows installation of third-party platform packages using Boards Manager. We have packages available for Windows, Mac OS, and Linux (32 and 64 bit).
 
