@@ -10,12 +10,12 @@
 		"platforms": [{
 			"name": "microBees Boards",
 			"architecture": "avr",
-			"version": "1.0.5",
+			"version": "1.0.6",
 			"category": "Contributed",
 			"url": "https://github.com/microBeesTech/microBees-Arduino/raw/master/microBees.zip",
 			"archiveFileName": "microBees.zip",
-			"checksum": "SHA-256:24D2C45A34F276562D9F0E3257143D4A874CE86E25297DE447AB4A25EB5E903B",
-			"size": "425460",
+			"checksum": "SHA-256:7C1D71B9F70720AFD530798039C69C99F2E7869DC052879C40EC9C95588625DD",
+			"size": "477787",
 			"help": {
 				"online": "https://github.com/microBeesTech/microBees-Arduino/issues"
 			},
